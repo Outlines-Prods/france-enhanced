@@ -1,1 +1,2 @@
-
+unification de tous les services en un domaine (france.grouv ou france.fr(a))
+Différentation entre les domaines français et domaines gouvernementales français (.fr = site francais, .fra pour les services gouvernementales)
